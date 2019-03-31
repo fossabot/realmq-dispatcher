@@ -19,3 +19,7 @@ Links for tweaking ssl configuration:
 - [Mozilla SSL Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
 - [Android Version Distribution](https://developer.android.com/about/dashboards/index.html)
 - [Client TLS Support](https://www.ssllabs.com/ssltest/clients.html)
+
+## License
+Copyright (c) 2018-2019 RealMQ GmbH.<br />
+The files in this archive are released under the [MIT License](LICENSE).
